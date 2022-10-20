@@ -96,17 +96,6 @@ button {
   transition: all 0.5s;
 }
 
-button:hover {
-  font-size: var(--button);
-  border: none;
-  padding: 1rem 2rem;
-  width: 16rem;
-  background-color: var(--white);
-  color: var(--grey);
-  font-weight: 600;
-  transform: translateX(1rem);
-}
-
 .main p {
   width: 30vw;
   text-align: justify;
